@@ -1,2 +1,2 @@
 # ring
-Raspberry Pi + HiFiBerry &lt;3
+Raspberry Pi + Arduino + HiFiBerry &lt;3
